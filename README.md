@@ -3,6 +3,8 @@
 Hey this is my implemenation of GUI based pacman using python-pygame library.
 An OOP-based structure is followed in its implementing the game.
 Pygame provides for image and sound rendering.
+
+
 -----------------------------------------------------------------------------------------------------------------------
 
 Controls
