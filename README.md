@@ -7,6 +7,8 @@ Pygame provides for image and sound rendering.
 
 -----------------------------------------------------------------------------------------------------------------------
 
-Controls
+Controls:
+
+
 Press arrow keys to move around the grid.Press y to restart game when over and q to exit.
 
